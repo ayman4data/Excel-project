@@ -45,5 +45,5 @@ Special thanks to **Luke Barousse** for the excellent course and for providing t
 
 ---
 ### Contact & Connect
-* **LinkedIn:** [Aymen Djemoui](https://www.linkedin.com/in/ayman-djemoui-249286126/)
+* **LinkedIn:** [Ayman Djemoui](https://www.linkedin.com/in/ayman-djemoui-249286126/)
 * **Portfolio:** [GitHub Profile](https://github.com/ayman4data)
