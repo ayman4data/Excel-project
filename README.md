@@ -4,14 +4,14 @@ This repository contains two comprehensive data analytics projects completed as 
 
 ## 📊 Project 1: Interactive Salary Dashboard
 An interactive tool designed to explore salary trends based on job titles and locations.
-![Salary Prediction Dashboard Hero Shot](images/Interactive Dashboard screenshot.png)
+![Salary Prediction Dashboard Hero Shot](images/Interactive%20Dashboard%20screenshot.png)
 * **Objective:** To provide a user-friendly interface for predicting potential salaries based on specific career parameters.
 * **Key Features:** Dynamic filtering, data validation, and interactive charting.
 
 
 ## 📈 Project 2: Data Science Job Market Analysis
 A deep dive into the real-world data science job market, focusing on identifying high-value skills and demand.
-![Market Analysis Insights](images/Highest Paying Skills in Data.png)
+![Market Analysis Insights](images/Highest%20Paying%20Skills%20in%20Data.png)
 ![Market Analysis Insights](images/does%20more%20skills%20equals%20more%20pay.png)
 * **Objective:** To answer critical business questions regarding the most in-demand skills and average pay across different data roles.
 * **Insights:** Analyzed the intersection of "High Demand" vs. "High Pay" to identify optimal career paths.
